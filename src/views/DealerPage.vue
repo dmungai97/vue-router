@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1>Dealer</h1>
+    <h1>Dealer: GM Motors</h1>
   </div>
 </template>
 
