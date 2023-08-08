@@ -1,0 +1,37 @@
+[
+    {
+        "id":1,
+        "make":"Chevrolet",
+        "body":"coupe",
+        "price":45323,
+        "year":2020
+    },
+    {
+        "id":2,
+        "make":"Buick",
+        "body":"sedan",
+        "price":25422,
+        "year":2016
+    },
+    {
+        "id":3,
+        "make":"Porshe",
+        "body":"SUV",
+        "price":77693,
+        "year":2018
+    },
+    {
+        "id":4,
+        "make":"Audi",
+        "body":"SUV",
+        "price":12242,
+        "year":2011
+    },
+    {
+        "id":5,
+        "make":"Chevrolet",
+        "body":"coupe",
+        "price":145323,
+        "year":2023
+    }
+]
